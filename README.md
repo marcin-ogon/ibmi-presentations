@@ -9,6 +9,9 @@ A chronological list of presentations with thumbnails and direct links to the pr
 
 ## Presentations
 
+### 2026 — Common Europe Congress — The Next Level of Integration: Building Hybrid AI-Powered Workflows with n8n and IBM i
+<a href="2026%20Common%20Europe%20Congress/2026%20Common%20Europe%20-%20Building%20Hybrid%20AI-Powered%20Workflows%20with%20n8n%20and%20IBM%20i.pdf"><img src="thumbnails/2026-common-europe-n8n-ai.svg" alt="2026 — Common Europe Congress — The Next Level of Integration: Building Hybrid AI-Powered Workflows with n8n and IBM i" width="480"></a>
+
 ### 2025 — Common Polska — Kod, który łączy: open source buduje społeczność IBM i
 <a href="2025%20Common%20Polska/2025%20Common%20Polska%20-%20Kod%2C%20kt%C3%B3ry%20%C5%82%C4%85czy%20jak%20open%20source%20buduje%20spo%C5%82eczno%C5%9B%C4%87%20IBM%20i.pdf"><img src="thumbnails/2025-common-polska-open-source-spolecznosc.svg" alt="2025 — Common Polska — Kod, który łączy: open source buduje społeczność IBM i" width="480"></a>
 
